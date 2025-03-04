@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "JavaScript testing practice project using Jest",
+  "main": "babel.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhenzala/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhenzala/testing-practice/issues"
+  },
+  "homepage": "https://github.com/rhenzala/testing-practice#readme"
+}
